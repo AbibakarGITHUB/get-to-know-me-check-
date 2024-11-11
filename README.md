@@ -61,7 +61,7 @@
             updateView();
         }
 
-        // Initial update
+        // update
         updateView();
     </script>
 </body>
